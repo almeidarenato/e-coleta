@@ -9,10 +9,20 @@
 
 ## Instalação
 
+### Backend - server
+
 Para instalar o backend basta executar o yarn
 
 ```sh
 yarn
+```
+
+### FrontEnd - web
+
+Para executar basta caminhar até a pasta web e digitar:
+
+```sh
+yarn start
 ```
 
 ## Autor
